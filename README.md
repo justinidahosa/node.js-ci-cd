@@ -6,7 +6,7 @@ It also includes **secrets management**, **Terraform provisioning**, and **Docke
 ---
 ## Architecture Diagram
 
-![Architecture Diagram](screenshots/architecture-diagram.png.jpg)
+![Architecture Diagram](screenshots/architecture-diagram.png)
 
 
 ## Project Overview
