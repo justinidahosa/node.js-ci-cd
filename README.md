@@ -4,6 +4,10 @@ This project demonstrates how to **containerize a Node.js application** and **au
 It also includes **secrets management**, **Terraform provisioning**, and **Docker Hub integration**.
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](screenshots/architecture-diagram.png.jpg)
+
 
 ## Project Overview
 
